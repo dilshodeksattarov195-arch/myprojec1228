@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvrocess",
+        "uuid": 3812940,
+        "checksum": "pmranv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
